@@ -27,4 +27,4 @@ Designed with a minimal UI and a bold center display to keep focus on the countd
 ---
 
 ## 📸 Preview
-
+<img width="1550" height="814" alt="Screenshot 2025-10-31 112601" src="https://github.com/user-attachments/assets/a67627a9-073e-4840-8b1e-061f55578693" />
